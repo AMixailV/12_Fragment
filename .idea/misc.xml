@@ -1,0 +1,30 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/12_Fragment/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/12_Fragment/app/src/main/res/layout/fragment_box_selection.xml" value="0.25025641025641027" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/drawable/chevron_down.xml" value="0.1" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/drawable/chevron_down_disabled.xml" value="0.1" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/drawable/edit_text_foreground.xml" value="0.1" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/drawable/form.xml" value="0.1" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/drawable/ic_down.xml" value="0.1" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/drawable/spinner_background.xml" value="0.1" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/layout/fragment_about.xml" value="0.2390625" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/layout/fragment_box.xml" value="0.24010416666666667" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/layout/fragment_box_selection.xml" value="0.2390625" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/layout/fragment_menu.xml" value="0.2390625" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/layout/fragment_options.xml" value="0.24010416666666667" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/layout/item_box.xml" value="0.2390625" />
+        <entry key="..\:/father/coding/kotlin/AndroidStudioProject/AS_RA/Fragment/app/src/main/res/layout/item_spinner.xml" value="0.24010416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
